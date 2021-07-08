@@ -1,16 +1,28 @@
-### Hi there 👋
+## Ben
 
-<!--
-**bchadwic/bchadwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben is an open-source service looking for a full-time position.
 
-Here are some ideas to get you started:
+### Installation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use the package manager [work](https://www.linkedin.com/in/ben-chadwic/) to install Ben.
+
+```bash
+$ work install ben
+```
+
+### Usage
+
+```bash
+$ ben meet
+#=> Hi, my name is Ben!
+
+$ ben hbz
+#=> 💻, 🛠, 🎧  
+
+$ ben exp
+#=> Java, C++, Golang, Kotlin, PHP
+```
+
+### Contributing
+
+To learn more about this service, please reach out to get started [https://ben/doc/contribute-form.html](mailto:benchadwick87@gmail.com).
